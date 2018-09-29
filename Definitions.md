@@ -1,12 +1,46 @@
 # Définitions
 
+### Table of contents
+
+- [A](#a)
+  - [A/B Testing](#ab-testing)
+- [B](#b)
+  - [Business Model Canvas](#business-model-canvas)
+  - [Business Prototyping](#business-prototyping)
+- [C](#c)
+  - [COCA](#coca)
+  - [CTR](#ctr)
+- [D](#d)
+- [E](#e)
+- [F](#f)
+- [G](#g)
+- [H](#h)
+- [I](#i)
+- [J](#j)
+- [K](#k)
+- [L](#l)
+- [M](#m)
+- [N](#n)
+- [O](#o)
+- [P](#p)
+- [Q](#q)
+- [R](#r)
+- [S](#s)
+- [T](#t)
+- [U](#u)
+- [V](#v)
+- [W](#w)
+- [X](#x)
+- [Y](#y)
+- [Z](#z)
 
 
 ### A
 
 ---
 
-__A/B Testing__: L’A/B testing est une expérience menée sur un site internet ou une application mobile (par exemple), qui permet de tester des hypothèses d'optimisations en les comparant avec une variante de référence. Il vous permet de voir ce qui fonctionne pour votre audience en vous basant sur l’analyse statistique des performances.
+### AB Testing
+L’A/B testing est une expérience menée sur un site internet ou une application mobile (par exemple), qui permet de tester des hypothèses d'optimisations en les comparant avec une variante de référence. Il vous permet de voir ce qui fonctionne pour votre audience en vous basant sur l’analyse statistique des performances.
 
 
 
@@ -14,11 +48,14 @@ __A/B Testing__: L’A/B testing est une expérience menée sur un site internet
 
 ---
 
-__Business Model Canvas__: Le BMC est un outil pour dresser un état des lieux du modèle économique d’une entreprise. Pour un projet de création d’entreprise, il est parfaitement adapté puisque c’est le bon moment pour analyser le potentiel de votre modèle économique. On peut aussi l’utiliser pour un projet de lancement d’un nouveau produit et/ou service dans votre organisation.
+
+### Business Model Canvas
+Le BMC est un outil pour dresser un état des lieux du modèle économique d’une entreprise. Pour un projet de création d’entreprise, il est parfaitement adapté puisque c’est le bon moment pour analyser le potentiel de votre modèle économique. On peut aussi l’utiliser pour un projet de lancement d’un nouveau produit et/ou service dans votre organisation.
 
 
 
-__Business prototyping__: Émettre des hypothèses pour répondre à des besoins, vérifier ces hypothèses pour vérifier la faisabilité et la viabilité d'une idée.
+### Business prototyping
+Émettre des hypothèses pour répondre à des besoins, vérifier ces hypothèses pour vérifier la faisabilité et la viabilité d'une idée.
 
 
 
@@ -26,11 +63,13 @@ __Business prototyping__: Émettre des hypothèses pour répondre à des besoins
 
 ---
 
-__COCA__ (Cost Of Customer Acquisition): Quel est le coût que convaincre un client (Communication, Marketing, etc..)
+### COCA
+(Cost Of Customer Acquisition) Quel est le coût que convaincre un client (Communication, Marketing, etc..)
 
 
 
-__CTR__: Taux de clics par rapport au nombre de vues
+### CTR
+Taux de clics par rapport au nombre de vues
 
 
 
